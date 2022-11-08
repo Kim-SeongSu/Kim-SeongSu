@@ -19,7 +19,6 @@ Who am I ?
 </p>
 <br>
 <a href="https://mercureverse.tistory.com/"><img src="https://img.shields.io/badge/Tistory-fcfcfc?&style=for-the-badge&logo=Tistory&logoColor=000000" /></a>
-<a href=""><img src="https://img.shields.io/badge/resume-9999FF?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 
 
@@ -27,8 +26,9 @@ Who am I ?
 Skils
 </h2><br>
 
-<a href=""><img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /></a>
+<a href="https://github.com/Kim-SeongSu/Yeardream_School/blob/main/Mini_Project-Modeling/code/MPJ_Modelling_kimss.ipynb"><img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
+<a href="https://github.com/Kim-SeongSu/Yeardream_School/blob/main/SQL_Project/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20SQL%20Toy%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3_%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE.sql"><img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /></a>
+
 
 
 
