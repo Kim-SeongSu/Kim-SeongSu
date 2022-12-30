@@ -38,9 +38,11 @@ Skils
 Stat
 </h2><br>
 
-![Kim Seong-Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-SeongSu&show_icons=true&theme=radical)
+![Kim Seong-Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-SeongSu&show_icons=true&theme=tokyonight)
 
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-SeongSu&layout=compact&theme=tokyonight)
+-->
 <br>
 
 <h2>
