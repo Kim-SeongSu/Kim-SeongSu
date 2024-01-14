@@ -16,14 +16,15 @@
 ## ❓ Who am I 
 
 <p>
- - I am studying Python, SQL and NLP etc to become a data scientist. <br>
+ - I am studying Python, SQL and NLP etc to become a data scientist.(and now, I'm studying DBA to become a full-stack developer) <br>
  - I learned basic AI skills through the boost camp 'Year-dream school' conducted by the Korea SMEs and Startups Agency.<br>
  - I finished my bachelor's degree in geology. If you are interested in applying Big-Data to geology, please contact me! 😆<br>
 </p><br>
 
 ## ✔️ Skills 
 ####  Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<a href="https://github.com/Kim-SeongSu/coding_practice" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
@@ -42,9 +43,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimss024)](https://solved.ac/kimss024)
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-SeongSu&layout=compact&theme=tokyonight)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-SeongSu&hide=jupyter%20notebook&theme=tokyonight)
 <br>
 
 ## 📨 Contacts 
