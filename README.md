@@ -24,16 +24,20 @@
 ## ✔️ Skills 
 ####  Platforms & Languages
 <a href="https://github.com/Kim-SeongSu/coding_practice" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+<a href="https://github.com/Kim-SeongSu/Self-study_and_Review/tree/main/Java" target="_blank"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+<a href="https://github.com/Kim-SeongSu/Self-study_and_Review/blob/main/MySQL/MySQL.md" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
+<!--
+power shell
+<a href="https://github.com/Kim-SeongSu/Self-study_and_Review" target="_blank"><img src="https://img.shields.io/badge/PowerShell-#5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=white"/></a>
+linux
+<a href="https://github.com/Kim-SeongSu/Self-study_and_Review" target="_blank"><img src="https://img.shields.io/badge/Linux-#FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/></a>
+-->
 #### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-
 
 <br>
 
