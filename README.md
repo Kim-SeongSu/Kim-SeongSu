@@ -22,7 +22,7 @@
 </p><br>
 
 ## ✔️ Skills 
-####  Platforms & Languages
+####  Languages
 <a href="https://github.com/Kim-SeongSu/coding_practice" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 <a href="https://github.com/Kim-SeongSu/Self-study_and_Review/tree/main/Java" target="_blank"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/Kim-SeongSu/Self-study_and_Review/blob/main/MySQL/MySQL.md" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
@@ -42,12 +42,17 @@ linux
 <br>
 
 ## 📊 Stat 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kim-SeongSu&theme=tokyonight)](https://git.io/streak-stats)
+
 ![Kim Seong-Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-SeongSu&show_icons=true&theme=tokyonight)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimss024)](https://solved.ac/kimss024)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-SeongSu&hide=jupyter%20notebook&theme=tokyonight)
+
 <br>
 
 ## 📨 Contacts 
