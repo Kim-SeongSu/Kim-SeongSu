@@ -1,12 +1,13 @@
 <div align='center'>
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=FDDED7&text=Welcomeˆ⩌ˆ&fontColor=DAD2E9&fontSize=50&animation=twinkling)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=17&pause=500&color=884A9F&center=true&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thanks+to+visit+my+profile.+Have+a+good+day!)](https://git.io/typing-svg)
+<br><br><br>
 </div>
 
-<p align='center'>
-  Hello, I'm Kim SeongSu 👋 <br>
-  Thanks to visit my profile. Have a good day!
-</p><br>
+
+
 
 <div align='right'>
   
