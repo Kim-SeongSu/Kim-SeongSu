@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=Welcomeˆ⩌ˆ&fontColor=F0FFF0&fontSize=50&height=140&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=CD9FE1CA&center=true&vCenter=true&multiline=true&random=false&width=500&height=200&lines=Hi%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thanks+for+visiting+my+profile+%3A%3E;+Have+a+good+day+%F0%9F%98%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=CD9FE1CA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=Hi%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thanks+for+visiting+my+profile+%3A%3E;+Have+a+good+day+%F0%9F%98%B8)](https://git.io/typing-svg)
 <br><br>
 </div>
 
@@ -30,15 +30,16 @@
 
 <div align='center'>
   
-###  Languages
+###  Languages & platforms
+
 <br>
-  
+
 <a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Python/README.md" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 <a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Linux/README.md" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black&"/></a>
 <a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/MySQL/README.md" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Java/README.md" target="_blank"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 
-
+#### click! 🔎
 
 <!--
 power shell
@@ -65,14 +66,13 @@ power shell
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kim-SeongSu&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-SeongSu&hide=jupyter%20notebook&theme=tokyonight&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kim-SeongSu&theme=shades-of-purple)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-SeongSu&hide=jupyter%20notebook&theme=shades-of-purple&layout=compact&size_weight=0.5&count_weight=0.5)
 
 <br>
 
-![Kim Seong-Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-SeongSu&show_icons=true&theme=tokyonight)
-[![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimss024)](https://solved.ac/kimss024)
+![Kim Seong-Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-SeongSu&show_icons=true&theme=ambient_gradient)
+[![Solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimss024)](https://solved.ac/kimss024)
 
 </div><br>
 
