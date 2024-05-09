@@ -28,41 +28,45 @@
 
 ## ✔️ Skills 
 
-<div align='center'>
+<div align='center'><br>
   
-###  Languages & platforms
+###  I have the following abilities :smiley:
+<br><br>
+<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Python/README.md" target="_blank"><img src="https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/ce52c60d-45a3-4321-aff4-ead6c096e228" height="100" weight="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Linux/README.md" target="_blank"><img src="https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/d53e6f19-7ac5-43a7-979b-419c49a46e46" height="100" weight="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Linux/README.md" target="_blank"><img src="https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/ecae1c11-3ab6-43d7-a899-a7b905e25bf8" height="100" weight="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/MySQL/README.md" target="_blank"><img src="https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/1566a48b-6e2a-4966-b998-e3a269c22a1a" height="100" weight="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/MySQL/README.md" target="_blank"><img src="https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/12cd60c6-8931-436c-a181-0fa8a138dd2a" height="100" weight="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Java/README.md" target="_blank"><img src="https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/d3af102e-f72e-4c9f-84d2-555886137880" height="100" weight="100"/></a>
 
-<br>
 
-<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Python/README.md" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
-<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Linux/README.md" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black&"/></a>
-<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/MySQL/README.md" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-<a href="https://github.com/Kim-SeongSu/Nydus_Canal/blob/main/Java/README.md" target="_blank"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+
+<!--
+https://icons8.kr/icons
+계정: ndskimss024@gmail.com
+-->
 
 #### click! 🔎
 
-<!--
-power shell
-<a href="https://github.com/Kim-SeongSu/Self-study_and_Review" target="_blank"><img src="https://img.shields.io/badge/PowerShell-#5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=white"/></a>
--->
+<br><br>
+
+### And I work with ...
 <br>
 
-### Tools
-<br>
+![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/3ac35cbe-7268-49f3-8f21-2db7fa915408)&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/82872b60-767f-4eac-b649-5584d04b8c06)&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/16ea76d2-8783-4128-8815-f6b8a92a62b9)&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/89ebd768-70ae-4fe3-a705-f56ddb7946fc)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+<!-- heidisql -->
+
+<br>
 
 </div><br>
 
 ## 📊 Stat 
 
 <div align='center'>
-<br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kim-SeongSu&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
