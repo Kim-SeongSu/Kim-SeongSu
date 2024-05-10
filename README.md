@@ -55,10 +55,12 @@ https://icons8.kr/icons
 
 ![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/3ac35cbe-7268-49f3-8f21-2db7fa915408)&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/82872b60-767f-4eac-b649-5584d04b8c06)&nbsp;&nbsp;&nbsp;&nbsp;
-![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/16ea76d2-8783-4128-8815-f6b8a92a62b9)&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/fd89e467-c361-41b2-9485-0f9f80bef235)&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/89ebd768-70ae-4fe3-a705-f56ddb7946fc)
 
-<!-- heidisql -->
+<!-- 
+![image](https://github.com/Kim-SeongSu/Kim-SeongSu/assets/104110605/16ea76d2-8783-4128-8815-f6b8a92a62b9)&nbsp;&nbsp;&nbsp;&nbsp;
+heidisql -->
 
 <br>
 
