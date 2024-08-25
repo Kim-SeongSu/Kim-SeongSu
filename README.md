@@ -7,7 +7,6 @@
 <br><br>
 </div>
 
-
 <div align='right'>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-SeongSu&count_bg=%237CD288&title_bg=%23BBD6FF&icon=&icon_color=%23E4C6C6&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -15,15 +14,19 @@
 
 ## ❓ Who am I 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&size=24&duration=1000&pause=150&color=000000EE&vCenter=true&multiline=true&repeat=false&width=1000&height=250&lines=-+I+am+studying+Python%2C+SQL+and+Tableau+etc+to+become+a+data+scientist.;%E3%85%A4(and+now%2C+I'm+studying+Java+and+Spring+to+become+a+Web+Server+developer);%E3%85%A4;-+I+learned+basic+AI+skills(ML%2C+DL%2C+NLP)+through+the+boost+camp+'Year-dream+school'+;%E3%85%A4conducted+by+the+Korea+SMEs+and+Startups+Agency.;%E3%85%A4;+-+I+finished+my+bachelor's+degree+in+geology.+;%E3%85%A4If+you+are+interested+in+applying+Big-Data+to+geology%2C+please+contact+me!+%F0%9F%98%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=24&duration=1000&pause=150&color=000000DC&vCenter=true&multiline=true&repeat=false&width=1000&height=250&lines=-+I+am+studying+Python%2C+SQL+and+Tableau+etc+to+become+a+data+scientist.;%E3%85%A4(and+now%2C+I'm+studying+Java+and+Spring+to+become+a+Web+Server+developer);%E3%85%A4;-+I+learned+basic+AI+skills+through+the+boost+camp+'Year-dream+school'+;%E3%85%A4conducted+by+the+Korea+SMEs+and+Startups+Agency.;%E3%85%A4;+-+I+finished+my+bachelor's+degree+in+geology.+;+%E3%85%A4If+you+are+interested+in+applying+Big-Data+to+geology%2C+please+contact+me!+%F0%9F%98%86)](https://git.io/typing-svg)
 
 <!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=CD9FE1CA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=Hi%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thanks+for+visiting+my+profile+%3A%3E;+Have+a+good+day+%F0%9F%98%B8)](https://git.io/typing-svg)
-
 <p>
-- I am studying Python, SQL and Tableau etc to become a data scientist.(and now, I'm studying Java and Spring to become a Web Server developer) <br>
-- I learned basic AI skills through the boost camp 'Year-dream school' conducted by the Korea SMEs and Startups Agency.<br>
- - I finished my bachelor's degree in geology. If you are interested in applying Big-Data to geology, please contact me! 😆<br>
+- I am studying Python, SQL and Tableau etc to become a data scientist.
+ㅤ(and now, I'm studying Java and Spring to become a Web Server developer)
+
+- I learned basic AI skills through the boost camp 'Year-dream school' 
+ㅤconducted by the Korea SMEs and Startups Agency.
+
+ - I finished my bachelor's degree in geology. 
+ ㅤIf you are interested in applying Big-Data to geology, please contact me! 😆
+ 
 </p><br>
 -->
 
