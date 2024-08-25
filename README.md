@@ -2,11 +2,10 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=Welcomeˆ⩌ˆ&fontColor=F0FFF0&fontSize=50&height=140&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=CD9FE1CA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=Hi%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thanks+for+visiting+my+profile+%3A%3E;+Have+a+good+day+%F0%9F%98%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=4000&pause=20&color=000000DC&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thank+you+for+visiting+my+profile+%3A%3E;Have+a+good+day+%F0%9F%98%B8)](https://git.io/typing-svg)
+
 <br><br>
 </div>
-
-
 
 
 <div align='right'>
@@ -16,12 +15,14 @@
 
 ## ❓ Who am I 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1700&pause=500&color=000000CA&vCenter=true&multiline=true&repeat=false&random=false&width=860&height=250&lines=-+I+am+studying+Python%2C+SQL+and+NLP+etc+to+become+a+data+scientist.;%E3%85%A4(and+now%2C+I'm+studying+DBA+to+become+a+full-stack+developer);%E3%85%A4;-+I+learned+basic+AI+skills+through+the+boost+camp+'Year-dream+school';%E3%85%A4conducted+by+the+Korea+SMEs+and+Startups+Agency.;%E3%85%A4;-+I+finished+my+bachelor's+degree+in+geology.+If+you+are+interested+in;%E3%85%A4applying+Big-Data+to+geology%2C+please+contact+me!+%F0%9F%98%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&size=24&duration=1000&pause=150&color=000000EE&vCenter=true&multiline=true&repeat=false&width=1000&height=250&lines=-+I+am+studying+Python%2C+SQL+and+Tableau+etc+to+become+a+data+scientist.;%E3%85%A4(and+now%2C+I'm+studying+Java+and+Spring+to+become+a+Web+Server+developer);%E3%85%A4;-+I+learned+basic+AI+skills(ML%2C+DL%2C+NLP)+through+the+boost+camp+'Year-dream+school'+;%E3%85%A4conducted+by+the+Korea+SMEs+and+Startups+Agency.;%E3%85%A4;+-+I+finished+my+bachelor's+degree+in+geology.+;%E3%85%A4If+you+are+interested+in+applying+Big-Data+to+geology%2C+please+contact+me!+%F0%9F%98%86)](https://git.io/typing-svg)
 
 <!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=CD9FE1CA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=Hi%2C+I'm+Kim+SeongSu+%F0%9F%91%8B;Thanks+for+visiting+my+profile+%3A%3E;+Have+a+good+day+%F0%9F%98%B8)](https://git.io/typing-svg)
+
 <p>
- - I am studying Python, SQL and NLP etc to become a data scientist.(and now, I'm studying DBA to become a full-stack developer) <br>
- - I learned basic AI skills through the boost camp 'Year-dream school' conducted by the Korea SMEs and Startups Agency.<br>
+- I am studying Python, SQL and Tableau etc to become a data scientist.(and now, I'm studying Java and Spring to become a Web Server developer) <br>
+- I learned basic AI skills through the boost camp 'Year-dream school' conducted by the Korea SMEs and Startups Agency.<br>
  - I finished my bachelor's degree in geology. If you are interested in applying Big-Data to geology, please contact me! 😆<br>
 </p><br>
 -->
